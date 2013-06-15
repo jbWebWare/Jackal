@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Jackal" lan="LAN_PLUGIN_JACKAL_NAME" version="0.01" date="2013-05-21" compatibility="2.0" installRequired="true" >
+	<author name="Burnsy" url="http://www.jbwebware.com" />
+	<summary lan="LAN_PLUGIN_JACKAL_SUMMARY">Online Gaming Team Management Software</summary>
+	<description lan="LAN_PLUGIN_JACKAL_DESCRIPTION">Online Gaming Team Management Software. Jackal contains all of the social features needed to improve the web presence of your Online Gaming Team, and enhance the communication between team members, site members, and the online community at large.  Jackal is a complete rewrite and re-branding of the jbClan plugin.</description>
+	<keywords>
+		<word>gaming</word>
+		<word>team</word>
+	</keywords>
+	<category>users</category>
+	<copyright></copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="images/icon_32.png" iconSmall="images/icon_16.png" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+</e107Plugin>
